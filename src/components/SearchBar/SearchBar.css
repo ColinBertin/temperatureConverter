@@ -1,0 +1,26 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputBar {
+    margin-bottom: 25px;
+    margin-right: 15px;
+}
+
+input {
+    font-size: 20px;
+}
+
+.submitBtn {
+    width: 150px;
+    color: #FFF;
+    background-color: #aa4b6b;
+    border-radius: 15px;
+}
+
+.submitBtn:hover {
+    background-color: #882748;
+    cursor: pointer;
+}

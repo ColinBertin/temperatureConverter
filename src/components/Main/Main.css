@@ -1,0 +1,14 @@
+main {
+    padding: 25px;
+    border-radius: 15px;
+    background-color: #3b8d99;
+    color: #FFF;
+}
+
+h1 {
+    text-align: center;
+}
+
+.converterOption {
+    text-align: center;
+}
